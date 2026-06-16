@@ -1,3 +1,32 @@
+
+Google Photos mã nguồn mở 27k ⭐️ với mã hóa đầu cuối và AI nhận diện khuôn mặt cùng OCR hỗ trợ tiếng Việt, full web, app, ios, windows
+
+Điểm khác biệt lớn nhất của Ente là toàn bộ ảnh được mã hóa đầu cuối (End-to-End Encryption), nghĩa là ngay cả máy chủ cũng không thể xem được nội dung ảnh của bạn.
+
+Các tính năng nổi bật:
+
+* Sao lưu ảnh và video tự động từ điện thoại.
+* Mã hóa đầu cuối cho toàn bộ dữ liệu.
+* AI nhận diện khuôn mặt chạy riêng tư.
+* Tìm kiếm ảnh thông minh theo người, địa điểm và nội dung.
+* OCR nhận diện văn bản bên trong ảnh để tìm kiếm nhanh tài liệu, hóa đơn, biển báo và ảnh chụp màn hình.
+* Tìm kiếm toàn văn từ nội dung OCR đã được lập chỉ mục.
+* Chia sẻ album với gia đình và bạn bè.
+* Đồng bộ đa nền tảng: Android, iOS, Windows, macOS và Linux.
+* Hỗ trợ self-hosting cho doanh nghiệp và người dùng nâng cao.
+* Import dữ liệu từ Google Photos.
+* Hỗ trợ Live Photos, RAW và video chất lượng cao.
+* Mã nguồn mở hoàn toàn.
+
+Điều đáng chú ý là các tính năng AI như nhận diện khuôn mặt, OCR, phân nhóm người, tìm kiếm ảnh và phân loại nội dung vẫn hoạt động dù dữ liệu được mã hóa. Điều này cho phép người dùng tìm lại một ảnh chứa số điện thoại, địa chỉ, hóa đơn hoặc tài liệu chỉ bằng vài từ khóa mà không phải hy sinh quyền riêng tư.
+
+Về tiếng Việt, Ente hiện hỗ trợ giao diện tiếng Việt do cộng đồng đóng góp. OCR và tìm kiếm văn bản cũng hỗ trợ tiếng Việt, giúp việc quản lý ảnh chụp tài liệu, giấy tờ và screenshot trở nên thuận tiện hơn rất nhiều.
+
+Đối với doanh nghiệp, Ente có thể được xem như một giải pháp quản lý ảnh và tài liệu riêng tư. Còn với người dùng cá nhân, đây là một trong những lựa chọn thay thế Google Photos hoàn thiện nhất hiện nay với đầy đủ AI nhận diện khuôn mặt, OCR và khả năng tìm kiếm thông minh.
+
+
+
+
 <div align="center">
 
 <img src=".github/assets/ente-rocketship.png" width="400"/>
